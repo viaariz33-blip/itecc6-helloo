@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <h1>Hello! Ako si Via Ariz</h1>
+    <h1>Hello!! Ako si Via Ariz</h1>
     <p>Welcome to ITECC6!</p>
   </div>
 </template>
